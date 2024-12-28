@@ -88,7 +88,7 @@ namespace Lesson2_Stack
             Console.WriteLine("Count:", stack.Count);
             while (stack.Count > 0);
             {
-                object o = stack.Pop();
+                object o = stack.Pop(); 
                 Console.WriteLine(o);
             }
             Console.WriteLine("Count:", stack.Count);
