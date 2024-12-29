@@ -27,7 +27,7 @@ namespace Lesson3_Queue
             queue.Enqueue(1);
             queue.Enqueue("456");
             queue.Enqueue(true);
-            queue.Enqueue("hello");
+            queue.Enqueue("hello");  
             #endregion
             #region 出队
             //栈中不存在删除的概念
