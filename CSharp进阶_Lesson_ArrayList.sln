@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_ArrayList", "Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_Stack", "Lesson2_Stack\Lesson2_Stack.csproj", "{1D4FEE97-4D60-4512-8DAE-C6BFF09A39B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_Queue", "Lesson3_Queue\Lesson3_Queue.csproj", "{280A25E4-7E04-4899-9124-EA10B69C8AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{1D4FEE97-4D60-4512-8DAE-C6BFF09A39B2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1D4FEE97-4D60-4512-8DAE-C6BFF09A39B2}.Release|x86.ActiveCfg = Release|Any CPU
 		{1D4FEE97-4D60-4512-8DAE-C6BFF09A39B2}.Release|x86.Build.0 = Release|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Debug|x86.Build.0 = Debug|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Release|x86.ActiveCfg = Release|Any CPU
+		{280A25E4-7E04-4899-9124-EA10B69C8AF3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
