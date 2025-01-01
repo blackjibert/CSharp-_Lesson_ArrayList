@@ -22,7 +22,7 @@ namespace Lesson3_Queue
 
             #region 知识点三 增取查改
             //需要引用System.Collections
-            #region 增
+            #region 增 
             //进队，一个一个进队
             queue.Enqueue(1);
             queue.Enqueue("456");
