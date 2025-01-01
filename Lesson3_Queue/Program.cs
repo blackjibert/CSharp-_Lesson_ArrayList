@@ -25,7 +25,7 @@ namespace Lesson3_Queue
             #region 增 
             //进队，一个一个进队
             queue.Enqueue(1);
-            queue.Enqueue("456");
+            queue.Enqueue("456"); 
             queue.Enqueue(true);
             queue.Enqueue("hello");   
             #endregion
